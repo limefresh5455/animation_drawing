@@ -1,0 +1,8 @@
+controller:
+  MODE: video_render
+  OUTPUT_VIDEO_PATH: C:\Users\Linuxbean\AnimatedDrawings-main\examples\download.jpg\video.gif
+scene:
+  ANIMATED_CHARACTERS:
+  - character_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\download.jpg\char_cfg.yaml
+    motion_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\config\motion\dab.yaml
+    retarget_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\config\retarget\fair1_ppf.yaml

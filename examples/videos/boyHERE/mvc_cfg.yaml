@@ -1,0 +1,8 @@
+controller:
+  MODE: video_render
+  OUTPUT_VIDEO_PATH: C:\Users\Linuxbean\AnimatedDrawings-main\examples\boyHERE\video.gif
+scene:
+  ANIMATED_CHARACTERS:
+  - character_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\boyHERE\char_cfg.yaml
+    motion_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\config\motion\wave_hello.yaml
+    retarget_cfg: C:\Users\Linuxbean\AnimatedDrawings-main\examples\config\retarget\cmu1_pfp.yaml.yaml
